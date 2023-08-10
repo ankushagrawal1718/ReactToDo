@@ -17,12 +17,12 @@ html {
 .main-div {
   min-height: 100vh;
   background: #090b31;
-  /* width: 90%; */
+  width: 90%;
   display: flex;
   margin: 0 auto;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   justify-content: center;
-  /* align-items: center; */
+  align-items: center;
 }
 
 .child-div {

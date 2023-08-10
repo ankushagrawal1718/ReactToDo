@@ -111,7 +111,7 @@ const Todo = () => {
             {/* Remove All Button */}
             <div className='showItems'>
                 <button className='btn effect04' data-sm-link-text = "Remove All" onClick={removeAll}>
-                  <span>CHECK LIST</span>  
+                  <span>CLEAR ALL TASK </span>  
                     </button>
             </div>
         </div>

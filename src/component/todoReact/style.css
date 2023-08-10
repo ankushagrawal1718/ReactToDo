@@ -28,7 +28,7 @@ html {
 .child-div {
   text-align: center;
   margin-top: 12rem;
-  width: 90%;
+  /* width: 90%; */
 }
 
 .child-div figure img {
@@ -45,7 +45,8 @@ html {
 
 input {
   /* display: block; */
-  min-width: 40rem;
+  /* margin: 20px; */
+  min-width: 29rem;
   height: 3.4rem;
   padding: 2rem 1.2rem;
   font-size: 1.8rem;
@@ -90,7 +91,7 @@ input:focus {
 }
 
 .fa {
-  margin-left: -2.5rem;
+  margin-left: -3.5rem;
   cursor: pointer;
   pointer-events: auto;
   z-index: 10;
